@@ -46,7 +46,7 @@ public static final String API_KEY = "YOUR-API-KEY";
 ```
 MIT License
 
-Copyright (c) 2018 Soojeong Shin
+Copyright (c) 2020 Aishwarya U
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -67,8 +67,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-
-https://play.google.com/store/apps/details?id=com.soojeongshin.newsfeed.free
 
 
 ![pod_1](https://user-images.githubusercontent.com/33213229/55874873-9bfdc180-5bce-11e9-8376-a677f9f7526a.png)
