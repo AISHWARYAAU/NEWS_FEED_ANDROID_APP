@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-The News Feed App is a part of the Android Basics Nanodegree program at Udacity, aiming to create a dynamic and user-friendly application that provides users with regularly updated news from the internet based on specific topics, persons, or locations of interest. For this project, we utilize the Guardian API, a well-maintained API that returns news information in JSON format.
+The News Feed App is a part of the Android Application, aiming to create a dynamic and user-friendly application that provides users with regularly updated news from the internet based on specific topics, persons, or locations of interest. For this project, we utilize the Guardian API, a well-maintained API that returns news information in JSON format.
 
 ### API Key Note
 
